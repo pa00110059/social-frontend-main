@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/4a69b778-7e47-46fa-a554-7d7b2aa58da4)
+
 # SocialMediaProject
 ## 前端與後端程式碼
 
